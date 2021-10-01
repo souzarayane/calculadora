@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image-x/png" href="/assets/icone.ico">
+</head>
+<body>
+    <div id="calculadora">
+        <div id="display">0</div>
+        <button onclick="limpar()" id="limpar">AC</button>
+        <button onclick="obterPorcento()" class="amarelo">%</button>
+        <button onclick="iniciarCalculo('*')" class="amarelo">x</button>
+        <button onclick="iniciarCalculo('/')" class="amarelo">/</button>
+        <button onclick="incluirDigito('7')">7</button>
+        <button onclick="incluirDigito('8')">8</button>
+        <button onclick="incluirDigito('9')">9</button>
+        <button onclick="iniciarCalculo('+')" class="amarelo">+</button>
+        <button onclick="incluirDigito('4')">4</button>
+        <button onclick="incluirDigito('5')">5</button>
+        <button onclick="incluirDigito('6')">6</button>
+        <button onclick="iniciarCalculo('-')" class="amarelo">-</button>
+        <button onclick="incluirDigito('1')">1</button>
+        <button onclick="incluirDigito('2')">2</button>
+        <button onclick="incluirDigito('3')">3</button>
+        <button onclick="finalizarCalculo()" id="igual">=</button>
+        <button onclick="incluirDigito('0')" id="zero">0</button>
+        <button onclick="incluirPonto()">.</button>
+    </div>
+
+    <script src="/JavaScript/script.js"></script>
+</body>
+</html>
