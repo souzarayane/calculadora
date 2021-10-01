@@ -1,6 +1,6 @@
 # Calculadora
 Exercício criar uma calculadora com as 4 operações básicas mais porcentagem.
-<img src="">
+<img src="https://github.com/souzarayane/calculadora/blob/main/Calculadora.png?raw=true">
 
 
 <h2>Links usados no projeto</h2>
