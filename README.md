@@ -1,7 +1,5 @@
 # Calculadora
 Exercício criar uma calculadora com as 4 operações básicas mais porcentagem.
-<img src="https://github.com/souzarayane/calculadora/blob/main/Calculadora.png?raw=true">
-
 
 <h2>Links usados no projeto</h2>
 <a href="https://pt.vecteezy.com/vetor-gratis/%C3%ADcone">ícone Vetores por Vecteezy</a> - ícone da calculadora.  <br /><br />
@@ -24,7 +22,7 @@ Autora  - Alison Danis https://dribbble.com/AlisonDanis .
   <li>#fdbc02 - Background button %, x, /, *, + e -</li>
 </ul>  
 
-Créditos ao professor Daniel Tapias Morales da Udemy onde tenho aprendido JavaScript.
+Créditos ao professor Daniel Tapias Morales da Udemy onde tenho aprendido JavaScript. <br /><br />
 
-
+<img src="https://github.com/souzarayane/calculadora/blob/main/Calculadora.png?raw=true">
 
